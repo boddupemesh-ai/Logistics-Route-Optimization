@@ -232,7 +232,3 @@ Key findings:
 
 This project successfully demonstrates the implementation of shortest path and sorting algorithms in a logistics and delivery management environment. The comparison highlights the strengths and limitations of Dijkstra's, Bellman-Ford, and Floyd-Warshall algorithms for different graph types. Merge Sort and Quick Sort efficiently handled delivery record organization. These algorithms provide practical solutions for routing, transportation planning, and supply chain optimization.
 
-
-Institution: ______________________
-
-Year: 2025
